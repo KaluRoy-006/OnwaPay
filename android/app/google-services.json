@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079451565615",
+    "project_id": "kolopay1970",
+    "storage_bucket": "kolopay1970.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079451565615:android:b8f50406d54f6e736d10da",
+        "android_client_info": {
+          "package_name": "com.onwapay.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByDE7otQWdetcdZtzZIppW4GS_f68m5JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

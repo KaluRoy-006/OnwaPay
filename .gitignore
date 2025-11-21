@@ -1,0 +1,21 @@
+### Android ###
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/caches/
+.idea/libraries/
+.idea/workspace.xml
+.idea/modules.xml
+
+# Generated files
+*.iml
+
+# Misc
+.DS_Store
+android_backup/
