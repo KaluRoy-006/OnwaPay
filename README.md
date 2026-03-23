@@ -1,16 +1,17 @@
-# kolopay_new
+# Fintech Mobile App
 
-A new Flutter project.
+This is a mobile application built using Flutter and Firebase.
 
-## Getting Started
+## Features
+- User authentication
+- Transaction handling
+- Firebase backend integration
 
-This project is a starting point for a Flutter application.
+## Goal
+To integrate mobile money services like MTN and Orange for fast and secure payments.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
+- Flutter (Dart)
+- Firebase
+- REST APIs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
